@@ -1,0 +1,2 @@
+# Bilgisayar_Oyunlarinda_Yapay_Zeka_Ikinci_Hafta_Odev
+Bilgisayar Oyunlarinda Yapay Zeka Ikinci Hafta Odev
